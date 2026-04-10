@@ -1,40 +1,38 @@
-<div align="center">
+# .github
 
-<img src="https://avatars.githubusercontent.com/u/186767606?v=4" width="128" style="border-radius: 50%; margin-bottom: 20px;">
+Organization-level GitHub configuration and community health files for **INSPIRON TECH**.
 
-# INSPIRON TECH
+## What's Here
 
-**Official Manager.io Partner – Bangladesh**
+| File | Purpose |
+|---|---|
+| `profile/README.md` | Organization profile — shown on [github.com/INSPIRONTECH](https://github.com/INSPIRONTECH) |
+
+## About INSPIRON TECH
+
+Precision systems for complex business workflows — accounting, healthcare technology, and business automation.
+
+- **50+ SMEs** across **15+ industries** in **BD · PK · UAE**
+- [Official Manager.io Advisor](https://www.manager.io/advisors/profile?username=7478b418-50b1-70e2-549b-3a506372d7c0)
+- **4.95/5** client satisfaction · **14,478** transactions migrated — zero data loss
+
+### Key Repositories
+
+| Repo | Description |
+|---|---|
+| [HEALTHCARE-INSPIRON](https://github.com/INSPIRONTECH/HEALTHCARE-INSPIRON) | Free, offline-first LIS for Bangladesh — DGHS FHIR R4 |
+| [MANAGERIO-VAT-BD](https://github.com/INSPIRONTECH/MANAGERIO-VAT-BD) | Bangladesh Mushak 6.3 VAT automation — [Live](https://inspirontech.github.io/MANAGERIO-VAT-BD/) |
+| [MANAGER-IO-DASHBOARD](https://github.com/INSPIRONTECH/MANAGER-IO-DASHBOARD) | Manager.io dashboard extensions |
+| [COMMUNITY-TOOLS](https://github.com/INSPIRONTECH/COMMUNITY-TOOLS) | Open-source Manager.io utilities |
+| [WEB-COMMAND-HQ](https://github.com/INSPIRONTECH/WEB-COMMAND-HQ) | Company website — inspiron.tech |
+
+### Contact
+
+- 🌐 [inspiron.tech](https://inspiron.tech)
+- 💼 [Upwork](https://www.upwork.com/freelancers/cyberhasan)
+- 💬 [WhatsApp](https://wa.me/8801719300849)
+- 📧 [hello@inspiron.tech](mailto:hello@inspiron.tech)
 
 ---
 
-### We architect logic for complex business workflows.
-
-From multi-entity manufacturing groups and government tender contractors to large-scale aquaculture farms and regional distributors — we design and implement precision accounting systems that eliminate black holes and deliver real financial control.
-
----
-
-### Core Capabilities
-
-- **Manager.io ERP Implementations** — Full clean-slate architecture for complex multi-entity operations, including custom Chart of Accounts, Divisions, Projects, and Production modules  
-- **Custom Accounting Systems** — End-to-end solutions for manufacturing, inventory, payroll, inter-company transactions, and razor-thin margin distribution models  
-- **VAT & NBR Compliance** — Complete Mushak 6.3 automation, digital submission systems, input/output VAT reconciliation, and NBR-ready reporting  
-- **Digital Transformation** — Migration from legacy Excel chaos to fully automated, audit-ready enterprise workflows with real-time visibility  
-- **Multi-AI Orchestration** — Intelligent automation pipelines combining research, analysis, and execution across 15+ AI models for faster delivery and zero-error implementations  
-
-Currently serving clients across **Bangladesh, Pakistan & UAE**.
-
----
-
-### Connect With Us
-
-[![Website](https://img.shields.io/badge/Website-inspiron.tech-00D2FF?style=flat&logo=vercel&logoColor=white)](https://inspiron.tech)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801719300849)  
-[![Email](https://img.shields.io/badge/Email-hello%40inspiron.tech-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@inspiron.tech)
-
----
-
-**"I do not install software. I architect logic."**  
-— MD ABU HASAN, Founder & Chief Architect
-
-</div>
+*MD ABU HASAN · Founder & Chief Architect*
