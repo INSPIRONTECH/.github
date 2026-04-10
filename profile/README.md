@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,50:0d1117,100:00D2FF&height=200&section=header&text=INSPIRON%20TECH&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Precision%20Systems%20for%20Complex%20Business%20Workflows&descSize=16&descAlignY=55&animation=fadeIn" width="100%">
 
 [![Website](https://img.shields.io/badge/inspiron.tech-00D2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://inspiron.tech)
-[![Manager.io Partner](https://img.shields.io/badge/Manager.io-Official%20Partner-FFD700?style=for-the-badge&logoColor=white)](https://manager.io/advisors)
+[![Manager.io Advisor](https://img.shields.io/badge/Manager.io-Official%20Advisor-FFD700?style=for-the-badge&logoColor=white)](https://www.manager.io/advisors/profile?username=7478b418-50b1-70e2-549b-3a506372d7c0)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/cyberhasan)
 [![BD · PK · UAE](https://img.shields.io/badge/BD%20·%20PK%20·%20UAE-Serving%203%20Countries-39d353?style=for-the-badge)](https://inspiron.tech)
 
 </div>
@@ -13,6 +14,12 @@
 ### What We Do
 
 We architect **accounting systems, healthcare technology, and business automation** for organizations that outgrew spreadsheets but need solutions that actually work in South Asian operating conditions — unreliable power, cash-heavy workflows, and complex tax codes.
+
+<div align="center">
+
+`50+ SMEs served` · `15+ Industries` · `4.95/5 client rating` · `14,478 transactions migrated — zero data loss`
+
+</div>
 
 ---
 
@@ -96,6 +103,8 @@ We architect **accounting systems, healthcare technology, and business automatio
 <div align="center">
 
 [![Website](https://img.shields.io/badge/inspiron.tech-00D2FF?style=for-the-badge&logo=vercel&logoColor=white)](https://inspiron.tech)
+[![Hire on Upwork](https://img.shields.io/badge/Hire%20on%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/cyberhasan)
+[![Manager.io Profile](https://img.shields.io/badge/Manager.io%20Advisor-FFD700?style=for-the-badge&logoColor=white)](https://www.manager.io/advisors/profile?username=7478b418-50b1-70e2-549b-3a506372d7c0)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801719300849)
 [![Email](https://img.shields.io/badge/hello@inspiron.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@inspiron.tech)
 
