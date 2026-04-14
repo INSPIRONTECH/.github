@@ -30,7 +30,7 @@ We architect **accounting systems, healthcare technology, and business automatio
 <td width="50%" valign="top">
 
 #### ⚕️ Healthcare Technology
-**[HEALTHCARE INSPIRON](https://github.com/INSPIRONTECH/HEALTHCARE-INSPIRON)** — Free, offline-first LIS for Bangladesh's 9,500+ private diagnostic labs. DGHS FHIR R4 integrated. Replaces legacy VB.NET + Crystal Reports.
+**[HEALTHCARE INSPIRON](https://github.com/INSPIRONTECH/HEALTHCARE-INSPIRON)** — Proprietary, Full-Stack LIS for Bangladesh's 9,500+ private diagnostic labs. DGHS FHIR R4 integrated with Mindray HL7 auto-interfacing. Next-gen logic replacing legacy systems.
 
 `Next.js` `Flutter` `Supabase` `FHIR R4` `HL7`
 
@@ -70,7 +70,7 @@ We architect **accounting systems, healthcare technology, and business automatio
 
 | Project | Description | Status |
 |---|---|---|
-| **[HEALTHCARE INSPIRON](https://github.com/INSPIRONTECH/HEALTHCARE-INSPIRON)** | Free LIS — offline-first, DGHS FHIR R4, HL7 auto-interfacing | ![Building](https://img.shields.io/badge/Building-00D2FF?style=flat-square) |
+| **[HEALTHCARE INSPIRON](https://github.com/INSPIRONTECH/HEALTHCARE-INSPIRON)** | Proprietary SaaS LIS — DGHS FHIR R4, HL7 auto-interfacing | ![Building](https://img.shields.io/badge/Building-00D2FF?style=flat-square) |
 | **[MANAGERIO-VAT-BD](https://github.com/INSPIRONTECH/MANAGERIO-VAT-BD)** | Bangladesh Mushak 6.3 VAT automation · [Live Demo →](https://inspirontech.github.io/MANAGERIO-VAT-BD/) | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
 | **[MANAGER-IO-DASHBOARD](https://github.com/INSPIRONTECH/MANAGER-IO-DASHBOARD)** | Custom dashboard extensions for Manager.io ERP | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
 | **[COMMUNITY-TOOLS](https://github.com/INSPIRONTECH/COMMUNITY-TOOLS)** | Open-source utilities for the Manager.io community | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
