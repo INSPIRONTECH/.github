@@ -48,7 +48,7 @@ We architect **accounting systems, healthcare technology, and business automatio
 <td width="50%" valign="top">
 
 #### 🎨 Product Engineering
-**[NEXUS Invoice Suite](https://github.com/INSPIRONTECH)** — Proprietary multi-currency invoice engine. Auto-detects PKR/AED/BDT, commission invoicing, WHT styling. Open-source VAT extensions for the community.
+**[NEXUS Invoice Suite](https://github.com/INSPIRONTECH/INSPIRON-SUITE)** — Proprietary multi-currency invoice engine. Auto-detects PKR/AED/BDT, commission invoicing, WHT styling. Open-source VAT extensions for the community.
 
 `JavaScript` `HTML/CSS` `Manager.io API`
 
@@ -56,7 +56,7 @@ We architect **accounting systems, healthcare technology, and business automatio
 <td width="50%" valign="top">
 
 #### 🌐 Web & Infrastructure
-**[WEB-COMMAND-HQ](https://github.com/INSPIRONTECH/WEB-COMMAND-HQ)** — Company website and client portal. Next.js 15 + Tailwind + Vercel.
+**[INSPIRON-TECH](https://github.com/INSPIRONTECH/INSPIRON-TECH)** — Company website and client portal. Next.js 15 + Tailwind + Vercel.
 
 `TypeScript` `Next.js` `Tailwind` `Vercel`
 
