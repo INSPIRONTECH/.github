@@ -47,18 +47,18 @@ We architect **accounting systems, healthcare technology, and business automatio
 <tr>
 <td width="50%" valign="top">
 
-#### 🎨 Product Engineering
-**[NEXUS Invoice Suite](https://github.com/INSPIRONTECH/INSPIRON-SUITE)** — Proprietary multi-currency invoice engine. Auto-detects PKR/AED/BDT, commission invoicing, WHT styling. Open-source VAT extensions for the community.
+#### 🏛️ INSPIRON Suite
+**[INSPIRON SUITE](https://github.com/INSPIRONTECH/INSPIRON-SUITE)** — Global business architecture for Manager.io. Universal Canvas themes, extensions, and financial logic. CC BY 4.0.
 
-`JavaScript` `HTML/CSS` `Manager.io API`
+`Manager.io` `CC BY 4.0` `Themes` `Extensions`
 
 </td>
 <td width="50%" valign="top">
 
 #### 🌐 Web & Infrastructure
-**[INSPIRON-TECH](https://github.com/INSPIRONTECH/INSPIRON-TECH)** — Company website and client portal. Next.js 15 + Tailwind + Vercel.
+**[INSPIRON-TECH](https://github.com/INSPIRONTECH/INSPIRON-TECH)** — Corporate web platform and digital headquarters at [inspiron.tech](https://inspiron.tech).
 
-`TypeScript` `Next.js` `Tailwind` `Vercel`
+`Next.js 15` `React 19` `TypeScript` `Tailwind`
 
 </td>
 </tr>
@@ -70,10 +70,11 @@ We architect **accounting systems, healthcare technology, and business automatio
 
 | Project | Description | Status |
 |---|---|---|
-| **[HEALTHCARE INSPIRON](https://github.com/INSPIRONTECH/HEALTHCARE-INSPIRON)** | Proprietary SaaS LIS — DGHS FHIR R4, HL7 auto-interfacing | ![Building](https://img.shields.io/badge/Building-00D2FF?style=flat-square) |
+| **[HEALTHCARE INSPIRON](https://github.com/INSPIRONTECH/HEALTHCARE-INSPIRON)** | Proprietary SaaS LIS — DGHS FHIR R4, HL7 auto-interfacing | ![Production](https://img.shields.io/badge/Production-00D2FF?style=flat-square) |
+| **[INSPIRON SUITE](https://github.com/INSPIRONTECH/INSPIRON-SUITE)** | Global Manager.io themes, extensions & financial logic · CC BY 4.0 | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
 | **[MANAGERIO-VAT-BD](https://github.com/INSPIRONTECH/MANAGERIO-VAT-BD)** | Bangladesh Mushak 6.3 VAT automation · [Live Demo →](https://inspirontech.github.io/MANAGERIO-VAT-BD/) | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
-| **[MANAGER-IO-DASHBOARD](https://github.com/INSPIRONTECH/MANAGER-IO-DASHBOARD)** | Custom dashboard extensions for Manager.io ERP | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
 | **[COMMUNITY-TOOLS](https://github.com/INSPIRONTECH/COMMUNITY-TOOLS)** | Open-source utilities for the Manager.io community | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
+| **[🔒 EGP-OPERATOR-LAB](https://github.com/CyberHasan/EGP-OPERATOR-LAB)** | eGP Operator Portal v2.2 — Training & certification for e-GP × Manager.io · [Live →](https://egp.inspiron.tech/) | ![Private](https://img.shields.io/badge/Private-FFD700?style=flat-square) |
 
 ---
 
