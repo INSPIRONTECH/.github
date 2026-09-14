@@ -74,7 +74,7 @@ We architect **accounting systems, healthcare technology, and business automatio
 | **[INSPIRON SUITE](https://github.com/INSPIRONTECH/INSPIRON-SUITE)** | Global Manager.io themes, extensions & financial logic · CC BY 4.0 | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
 | **[MANAGERIO-VAT-BD](https://github.com/INSPIRONTECH/MANAGERIO-VAT-BD)** | Bangladesh Mushak 6.3 VAT automation · [Live Demo →](https://inspirontech.github.io/MANAGERIO-VAT-BD/) | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
 | **[COMMUNITY-TOOLS](https://github.com/INSPIRONTECH/COMMUNITY-TOOLS)** | Open-source utilities for the Manager.io community | ![Live](https://img.shields.io/badge/Live-39d353?style=flat-square) |
-| **[🔒 EGP-OPERATOR-LAB](https://github.com/CyberHasan/EGP-OPERATOR-LAB)** | eGP Operator Portal v2.2 — Training & certification for e-GP × Manager.io · [Live →](https://egp.inspiron.tech/) | ![Private](https://img.shields.io/badge/Private-FFD700?style=flat-square) |
+| **[🏛️ EGP-OPERATOR-LAB](https://github.com/INSPIRONTECH/EGP-OPERATOR-LAB)** | 13 free interactive training modules for Bangladesh e-GP contractors · CC BY 4.0 · [Live →](https://egp.inspiron.tech/) | ![Public](https://img.shields.io/badge/Public-00FF88?style=flat-square&labelColor=010409) |
 
 ---
 
